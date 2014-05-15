@@ -1,5 +1,5 @@
 # Description:
-#   Returns the weather from thefuckingweather.com
+#   Returns the weather from thefuckingweather.com, an adaptation of aaronott's script
 #
 # Dependencies:
 #   None
@@ -12,7 +12,7 @@
 #   hubot what's the fucking weather for <zip> - Get the weather for a zipcode
 #
 # Author:
-#   aaronott
+#   aaronott and rmcveigh
 
 weather = (msg, query, cb) ->
   msg.http('http://thefuckingweather.com/')
