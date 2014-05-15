@@ -1,7 +1,7 @@
 {
-name: "hubot-marvin",
+name: "hubot-memo",
 version: "0.0.1",
-description: "Hubot module that creates marvin the paranoid android quotesquotes and f-ing weather.com functionality",
+description: "Hubot module to give marvin the paranoid android quotes and f-ing weather",
 main: "index.coffee",
 scripts: {
 test: "echo "Error: no test specified" && exit 1"
@@ -16,7 +16,7 @@ coffee-script: "~1.6"
 keywords: [
 "Hubot"
 ],
-author: "Ryan McVeigh (rdodev)",
+author: "Ryan McVeigh (rmcveigh)",
 license: "MIT",
 bugs: {
 url: "https://github.com/rmcveigh/hubot-marvin/issues"
