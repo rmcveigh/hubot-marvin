@@ -1,6 +1,6 @@
 {
   "name": "hubot-marvin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Marvin the Paranoid Android scripts for hubot",
   "main": "index.coffee",
   "scripts": {
