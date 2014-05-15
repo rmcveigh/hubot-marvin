@@ -1,25 +1,21 @@
 {
-name: "hubot-marvin",
-version: "0.0.1",
-description: "Hubot module to give marvin the paranoid android quotes and f-ing weather",
-main: "index.coffee",
-scripts: {
-test: "echo "Error: no test specified" && exit 1"
-},
-repository: {
-type: "git",
-url: "https://github.com/rmcveigh/hubot-marvin.git"
-},
-dependencies: {
-coffee-script: "~1.6"
-},
-keywords: [
-"Hubot"
-],
-author: "Ryan McVeigh (rmcveigh)",
-license: "MIT",
-bugs: {
-url: "https://github.com/rmcveigh/hubot-marvin/issues"
-},
-homepage: "https://github.com/rmcveigh/hubot-marvin"
+  "name": "hubot-marvin",
+  "version": "0.0.1",
+  "description": "Marvin the Paranoid Android scripts for hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmcveigh/hubot-marvin"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "CIG",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  }
 }
