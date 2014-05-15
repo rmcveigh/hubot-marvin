@@ -1,5 +1,5 @@
 {
-name: "hubot-memo",
+name: "hubot-marvin",
 version: "0.0.1",
 description: "Hubot module to give marvin the paranoid android quotes and f-ing weather",
 main: "index.coffee",
