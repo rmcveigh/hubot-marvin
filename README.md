@@ -1,6 +1,8 @@
 hubot-marvin
 ============
 
+[![NPM](https://nodei.co/npm/hubot-marvin.png)](https://nodei.co/npm/hubot-marvin/)
+
 Adds marvin the paranoid android quotes to hubot and a new version of the f-ing-weather script
 
 creates some basic commands for hubot:
