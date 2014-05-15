@@ -8,9 +8,9 @@
 #   None
 #
 # Commands:
-#   how are you - replies with depressed quote
-#   what's up - replies with what's up quote
-#   hitchhike me - replies with random marvin the paranoid android quote
+#   hubot how are you - replies with depressed quote
+#   hubot what's up - replies with what's up quote
+#   hubot hitchhike me - replies with random marvin the paranoid android quote
 #
 # Author:
 #   rmcveigh
